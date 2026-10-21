@@ -107,7 +107,4 @@ telco-churn-analysis/
 └── README.md
 ```
 
-## Author
 
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/YOUR-USERNAME) | your.email@example.com
