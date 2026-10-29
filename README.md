@@ -2,9 +2,12 @@
 
 An exploratory data analysis of a telecom company's customers to find **who is leaving, why, and what the company can do about it.**
 
-![Churn by Contract](images/churn_by_contract.png)
-
 ---
+
+<img width="1350" height="675" alt="churn_by_payment" src="https://github.com/user-attachments/assets/6144cf96-8978-4ab0-9287-59b347642ccb" />
+<img width="1050" height="675" alt="churn_by_internet" src="https://github.com/user-attachments/assets/8c8b94c8-4c27-4717-a09e-46b9a2ec5b86" />
+<img width="1050" height="675" alt="monthly_charges_boxplot" src="https://github.com/user-attachments/assets/22bd136f-9d1f-4baf-822e-cdcb42869bd7" />
+
 
 ## Business Problem
 
@@ -67,9 +70,11 @@ Acquiring a new customer costs far more than keeping an existing one. This proje
 
 ## Visualizations
 
-| Churn by Contract | Churn by Tenure Group |
-|---|---|
-| ![Contract](images/churn_by_contract.png) | ![Tenure](images/churn_by_tenure.png) |
+| Churn by Contract |
+<img width="1050" height="675" alt="churn_by_contract" src="https://github.com/user-attachments/assets/be189852-d7ab-4cbf-af5e-314fec51693f" />
+ | Churn by Tenure Group |
+ <img width="1050" height="675" alt="churn_by_tenure" src="https://github.com/user-attachments/assets/e72f0857-1344-4d81-9a79-7869c5079eb7" />
+
 
 ## Limitations
 
